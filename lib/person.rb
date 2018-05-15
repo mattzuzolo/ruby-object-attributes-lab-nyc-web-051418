@@ -19,6 +19,4 @@ class Person
   end  
     
     
-  
-  
 end
